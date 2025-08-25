@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-llm-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@llamaindex/ollama": "^0.1.21",
+    "chalk": "^5.6.0",
+    "dotenv": "^16.6.1",
+    "llamaindex": "^0.10.6",
+    "zod": "^3.25.76"
+  },
+  "type": "module"
+}
